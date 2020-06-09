@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "722597225453",
+    "firebase_url": "https://wizardoutfitter.firebaseio.com",
+    "project_id": "wizardoutfitter",
+    "storage_bucket": "wizardoutfitter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722597225453:android:71880aecbd4674a5d23de4",
+        "android_client_info": {
+          "package_name": "com.jb.wizardoutfitter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722597225453-g88t7ri0e3trt3hn2hff4rkqlh919omh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiyXxjjlqfWhrzal7KYSyaE9nokjuUsdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722597225453-g88t7ri0e3trt3hn2hff4rkqlh919omh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

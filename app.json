@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "WizardOutfitter",
+    "slug": "WizardOutfitter",
+    "android": {
+      "package": "com.jb.wizardoutfitter",
+      "googleServicesFile": "./google-services.json"
+    },
+    "platforms": ["ios", "android", "web"],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#d6c591"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "config": {
+        "firebase": {
+          "apiKey": "AIzaSyAynV5vYISi875Ss-5SZlndZQFEWNeCpcs",
+          "authDomain": "wizardoutfitter.firebaseapp.com",
+          "databaseURL": "https://wizardoutfitter.firebaseio.com",
+          "projectId": "wizardoutfitter",
+          "storageBucket": "wizardoutfitter.appspot.com",
+          "messagingSenderId": "722597225453",
+          "appId": "1:722597225453:web:763a41f1ae85c3fdd23de4",
+          "measurementId": "G-7YX6WMWXYN"
+        }
+      }
+    }
+  }
+}
